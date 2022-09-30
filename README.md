@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GabrielSilvadp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @GabrielSilvadp;
+- 👀 I'm interested in learning;
+- 🌱 I'm currently learning java;
+- 💞️ I try to collaborate at work;
+- 📫 How to reach me <gabrielsilvadp04@gmail.com>.
 
 <!---
 GabrielSilvadp/GabrielSilvadp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
